@@ -40,7 +40,7 @@ Each ESP runs a simple FSM with the following states:
 | LED Green| 22       |
 | LED Blue | 23       |
 | Button   | 19       |
-![schakeling](image.png)
+![schakeling](images/image.png)
 Pins can be customized in the code.
 
 ## TCP Communication
